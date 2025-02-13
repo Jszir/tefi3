@@ -13,7 +13,7 @@ h2 { text-align: center;}
 #introduction { 
     display: flex;
     justify-content: center;
-    background-color:  #f0045e;
+    background-color:  #f0345e;
     border-radius: 20px;
     box-shadow: 0px 20px 0px #8a0136;
 }
