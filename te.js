@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", function () {
 let y_bt = document.getElementById("yes")
 let n_bt = document.getElementById("no")
 let img_1 = document.getElementById("img1")
-let img_2 = document.getElementById("img2")
 y_bt.style.width = 200 + 'px'
 y_bt.style.height = 200 + 'px'
 n_bt.style.width = 200 + 'px'
